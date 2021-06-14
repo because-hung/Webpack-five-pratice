@@ -1,0 +1,7 @@
+div{
+    width: 300%;
+    height: 50vh;
+    background-image: url(./code.jpg);
+    color: white;
+    font-size: 100px;
+}

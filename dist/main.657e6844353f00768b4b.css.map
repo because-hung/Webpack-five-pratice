@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-basic/./src/index.css"],"names":[],"mappings":"AAAA;IACI,WAAW;IACX,YAAY;IACZ,gDAAiC;IACjC,YAAY;IACZ,gBAAgB;AACpB,C","file":"main.657e6844353f00768b4b.css","sourcesContent":["div{\r\n    width: 300%;\r\n    height: 50vh;\r\n    background-image: url(./code.jpg);\r\n    color: white;\r\n    font-size: 100px;\r\n}"],"sourceRoot":""}
